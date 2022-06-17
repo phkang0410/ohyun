@@ -14,3 +14,8 @@
 3. hello
 
 life is short, use python!
+```python
+def hello():
+    print('hello world')
+```html
+<h1>hello world</h1>
